@@ -9,6 +9,7 @@ This GUI renders the segmented files created with SPM12 to viiusalize the 3D ima
 and allows easy electrode corregistration.
 
 The GUI accepts file segmentation in ".nii" format and creats electrodes for corregistration.
+We have provdied an example brain .nii file (in a zip-file) and electrode .mat file to use 
 
 A user manual, and demo videos have been provided 
  
