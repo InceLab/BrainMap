@@ -9,8 +9,12 @@ This GUI renders the segmented files created with SPM12 to viiusalize the 3D ima
 and allows easy electrode corregistration.
 
 The GUI accepts file segmentation in ".nii" format and creats electrodes for corregistration.
-We have provdied an example brain .nii file and electrode .mat file (in a zip-file) 
+We have provdied an example brain .nii file and electrode .mat file (in a zip-file). 
+A user manual, and demo videos have been provided. 
 
-A user manual, and demo videos have been provided 
- 
-for more information/code please email:peasman@uh.edu
+When running BrainMap after setup, if the following error is encountered : 
+["src.java.checkboxtree.FileLoadTree.FileLoadTree" fails the test]
+Please install Java JRE following this link: https://www.thecoderworld.com/how-to-install-java-jre-on-windows-11/
+Restart computer and run brainmap setup again.
+
+For more information/code please email:itasnim@uh.edu
