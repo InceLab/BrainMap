@@ -5,7 +5,7 @@ This folder contains  a MATLAB GUI called Brainmap used in;
 2) Asman P., Prabhu S., Tummala S, and Ince NF. Real-time delineation of the central sulcus with the spatial profile of SSEPs captured with a high-density ECoG grid. 
 44th EMBC, Scottish Event Campus, Glasgow, UK, July 11-15, 2022 (to appear in proceedings of IEEE EMBC 2022) 
 
-This GUI renders the segmented files created with SPM12 to viiusalize the 3D image of the brain 
+This GUI renders the segmented files created with SPM12 to viusalize the 3D image of the brain 
 and allows easy electrode corregistration.
 
 The GUI accepts file segmentation in ".nii" format and creats electrodes for corregistration.
